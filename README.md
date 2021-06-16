@@ -4,7 +4,7 @@
 
 This is a machine Learning based Full stack Extractive Summarization Web Application to summarize the contents of Wikipedia Articles, Plain Text and PDF Documents.
 
-The libraries used for the project are:
+Some of the libraries used for the project are:
 * numpy
 * pandas
 * pyPDF2
